@@ -37,6 +37,10 @@ body {
     border-bottom: 6px solid var(--borda);
 }
 
+.locked{
+    size: 20%;
+}
+
 #campo-senha {
     background-color: var(--fundo-senha);
     border: none;
